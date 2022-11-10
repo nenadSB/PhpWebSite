@@ -7,7 +7,7 @@
 
 	</head>
 
-	<body>
+	<body> 
 		<?php
 			define("TITLE", "Home | Franklin's Fine Dining");
 	
